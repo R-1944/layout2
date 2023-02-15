@@ -1,0 +1,49 @@
+.companynm b
+{
+
+    color:orange ;
+    margin-left: 80px;
+}
+.main_img
+{
+    display: flex;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+.bestchoice{
+    
+    margin-left: -170px;
+    margin-top: 0%;
+    height: 150px;
+    width: 150px;
+    
+    /* display:inline-block; */
+    box-sizing: border-box;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(27, 147, 147);
+}
+/* .first h1{
+    color: orange;
+}
+.first p{
+    margin: 30px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: left;
+}
+.second h1{
+    color: orange;
+}
+.third h1{
+    color: orange;
+}
+.about
+{
+    background-color: teal;
+    
+} */
