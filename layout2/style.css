@@ -1,49 +1,96 @@
 .companynm b
 {
 
-    color:orange ;
-    margin-left: 80px;
+    color:orangered ;
+    margin-left: 200px;
+    
 }
 .main_img
 {
     display: flex;
     margin-left: 200px;
     margin-bottom: 50px;
+
 }
+.box{
+
+margin-left: 181px;
+ width: 50px;
+ margin-bottom: -48px;
+  height: 50px;
+  padding: 15px;
+  background-color: rgb(0, 109, 128);
+  box-shadow: 5px 5px  rgb(16, 49, 74) inset;
+}
+
+
 .bestchoice{
     
-    margin-left: -170px;
-    margin-top: 0%;
-    height: 150px;
-    width: 150px;
-    
+    margin-left: -213px;
+    margin-top: -7%;
+    height: 235px;
+    width: 200px;
+    padding: 70px;
+    padding-top: 68px;
+    padding-left: 50px;
+    padding-right: 50px;
+    z-index: 1;
     /* display:inline-block; */
     box-sizing: border-box;
-    border-bottom-left-radius: 80px;
-    border-bottom-right-radius: 80px;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
     text-align: center;
     color: white;
-    font-size: xx-large;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: rgb(27, 147, 147);
+    font-size:large;
+    font-weight: bold;
+    background-color:rgb(46, 123, 123)
 }
-/* .first h1{
-    color: orange;
+.ourservice{
+    color: teal;
+    text-align: center;
 }
-.first p{
-    margin: 30px;
-    margin-top: 20px;
-    padding: 10px;
-    text-align: left;
-}
-.second h1{
-    color: orange;
-}
-.third h1{
-    color: orange;
-}
-.about
-{
-    background-color: teal;
+
+
+  .about {
+        background-color: teal;
+        padding: 60px;
+        box-sizing: border-box;
+        font-size: medium;
+        height: 330px;
+        width: 350px;
+        text-align: center;
+        margin-top: -773px;
+        margin-left: 700px;
+        color: white;
+        
     
-} */
+} 
+.contact{
+    background-color:orangered;
+    padding: 81px;
+    box-sizing: border-box;
+    font-size: medium;
+    height: 300px;
+    width: 350px;
+    color:white;
+    text-align: center;
+    margin-top: -525px;
+    margin-left: 700px;
+    margin-bottom: 100px;
+
+} 
+.example{
+    background-color: rgb(190, 188, 188);
+    height: 190px;
+    width: 350px;
+    font-size: medium;
+    text-align: center;
+    box-sizing: border-box;
+    /* margin-top: -720px; */
+    margin-left: 700px;
+    margin-bottom: 100px;
+    padding: 32px;
+    padding-left: 20px;
+    margin-top: -225px;
+    color: white;
+}
