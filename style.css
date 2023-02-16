@@ -1,0 +1,77 @@
+.companynm b
+{
+
+    color:orange ;
+    margin-left: 80px;
+}
+.main_img
+{
+    display: flex;
+    margin-left: 200px;
+    margin-bottom: 50px;
+
+}
+.bestchoice{
+    
+    margin-left: -240px;
+    margin-top: -7%;
+    height: 300px;
+    width: 200px;
+    padding: 50px;
+    
+    /* display:inline-block; */
+    box-sizing: border-box;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(27, 147, 147);
+}
+.ourservice{
+    color: teal;
+    text-align: center;
+}
+
+
+  .about {
+        background-color: teal;
+        padding: 50px;
+        box-sizing: border-box;
+        font-size: medium;
+        height: 330px;
+        width: 350px;
+        text-align: center;
+        margin-top: -720px;
+        margin-left: 700px;
+    
+} 
+.contact{
+    background-color:orangered;
+    padding: 50px;
+    box-sizing: border-box;
+    font-size: medium;
+    height: 300px;
+    width: 350px;
+    
+    text-align: center;
+    margin-top: -525px;
+    margin-left: 700px;
+    margin-bottom: 100px;
+
+} 
+.example{
+    background-color: gray;
+    height: 100px;
+    width: 350px;
+    font-size: medium;
+    text-align: center;
+    box-sizing: border-box;
+    /* margin-top: -720px; */
+    margin-left: 700px;
+    margin-bottom: 100px;
+    padding: 50px;
+    padding-left: 10px;
+    margin-top: -225px;
+}
